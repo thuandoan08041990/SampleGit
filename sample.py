@@ -4,3 +4,4 @@ print(cat)
 c = data[:5] + data[6:]
 print(c)
 print("Test")
+print("Sua online")
